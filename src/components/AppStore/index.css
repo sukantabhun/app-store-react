@@ -69,6 +69,20 @@
     height: fit-content;
   }
 }
+@media screen and (min-width: 992px) {
+  .app-item-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+    row-gap: 25px;
+    column-gap: 25px;
+    background-color: transparent;
+    height: fit-content;
+  }
+}
 .tab-item-container {
   list-style: none;
   background-color: transparent;

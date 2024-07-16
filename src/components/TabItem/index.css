@@ -8,7 +8,9 @@
   font-size: medium;
   font-weight: bold;
 }
-
+li {
+  background-color: transparent;
+}
 .active-tab-btn {
   color: #2563eb;
   border-color: #2563eb;
