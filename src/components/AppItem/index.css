@@ -1,0 +1,15 @@
+li {
+  width: 200px;
+  height: 250px;
+  background-color: white;
+  border-radius: 12px;
+  text-align: center;
+}
+.image {
+  width: 150px;
+  margin: 25px;
+}
+.text {
+  color: #1e293b;
+  font-weight: bold;
+}
